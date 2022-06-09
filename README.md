@@ -177,7 +177,7 @@ a- Aller au niveau de l'interface de la creation du noeud client (site 2) et fai
 b- Aller au niveau du cmd de la question 3 puis inserrer ceci:
 SELECT * FROM PERSON;
 
-constat: la table a ete replique
+constat: Je constate une replication de la table 
 
-conclusion: il s'agit d'un systeme de base de donnes distribues.
+conclusion: il s'agit d'un systeme de base de donnes distribuées.
 
